@@ -32,5 +32,10 @@ namespace Stage_Picture_Generator
         {
             RotateImage(pictureBox1.Image);
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
